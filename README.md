@@ -1,4 +1,4 @@
-# django_app
+# url_conversion_app
 
 Recruitment task to convert given url to a shorter version or extend the shorter URL version to origin one.
 
